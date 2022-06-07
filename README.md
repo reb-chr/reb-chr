@@ -1,7 +1,7 @@
 - 👋  Hi, I’m Rebecca
-- 👀  I’m interested in software engineering, trading, and music
-- 🌱  I’m currently improving my skills in Java and Python
-- 👩‍💻  I am an options trader at PEAK6 Capital Management in New York City
+- 👀  I’m interested in software engineering, data analysis, and music.
+- 🌱  I’m currently working on my skills in Java, Python, and SQL.
+- 👩‍💻  I am a former equity options trader.
 - 📫  Reach me at rchristainsen@gmail.com
 
 <!---
